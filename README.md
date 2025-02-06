@@ -4,7 +4,7 @@
 
 ---
 
-![stability-work_in_progress](images/stability-work_in_progress-lightgrey.svg)
-![internaluse-green](images/internal_use_-stable-green.svg)
+![stability-work_in_progress](images/stability_work_in_progress.png)
+![internal-use-green](images/internal_use_stable.png)
 
 # shortcuts
