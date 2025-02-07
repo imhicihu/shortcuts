@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Screenshot_2025-02-06.png?raw=true" alt="IMHICIHU's custom Shortcuts"/>
+  <img src="images/Screenshot_2025-02-07.png?raw=true" alt="IMHICIHU's custom Shortcuts"/>
 </p>
 
 ---
