@@ -1,6 +1,6 @@
 ### Security Policy
 
-To report or disclose a potential security-related issue in this open-source project, please email the details to `imhicihu` at `gmail` dot `com`. Please include the following information, as much as possible:
+To report or disclose a potential security-related issue in this open-source project, please (email)[PGP_key.md] the details to `imhicihu` at `gmail` dot `com`. Please include the following information, as much as possible:
 ```
 1. Summary of the issue and its potential impact
 2. Versions affected (optional)
