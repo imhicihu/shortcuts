@@ -13,7 +13,7 @@
 ## RATIONALE
 
 * Custom shortcuts for the Shortcuts application developed by Apple and provided on its iOS, iPadOS, macOS, and watchOS operating systems.
-* They are like macros that automate actions: go to our digital repositories, project's websites, digital field notes, PhD tesis, digitized journals, etc. 
+* They are like macros that automate actions: go to our [digital repositories](https://ri.conicet.gov.ar/handle/11336/458/discover), [digital books](https://imhicihu.conicet.gov.ar/publicaciones/), [digital field notes](https://imhicihu.conicet.gov.ar/Bormida/), [PhD tesis](https://ri.conicet.gov.ar/handle/11336/458/discover?filtertype=type&filter_relational_operator=contains&filter=thesis), [digitized journals](https://imhicihu.conicet.gov.ar/colecciones-digitales/), etc. 
 
 ### What is this repository for? ###
 
