@@ -2,7 +2,7 @@
   <img src="images/Screenshot_2025-02-07.png?raw=true" alt="IMHICIHU's custom Shortcuts"/>
 </p>
 
-> _Shortcuts_ app
+> _Shortcuts_ app on macOSX environment
 ---
 
 ![stability-work_in_progress](images/stability_work_in_progress.png)
