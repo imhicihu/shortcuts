@@ -25,6 +25,8 @@ https://github.com/user-attachments/assets/6774b2a7-fcd2-4a23-a7eb-bfbbb3d119bc
 
 * Quick summary
     - Just one click to access to our digital content
+
+### Download links from iCloud
 <details>
 <summary>Download links from iCloud</summary>
 | Button | Download |
