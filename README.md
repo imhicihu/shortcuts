@@ -30,14 +30,6 @@ https://github.com/user-attachments/assets/6774b2a7-fcd2-4a23-a7eb-bfbbb3d119bc
 
 * Check the [downloads](downloads.md) section
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-    - Contact `imhicihu` at `gmail` dot `com`
-
-### Code of Conduct
-
-* Please, check our [Code of Conduct](code_of_conduct.md)
 <details>
 <summary>Download links from iCloud</summary>
 
@@ -63,6 +55,15 @@ https://github.com/user-attachments/assets/6774b2a7-fcd2-4a23-a7eb-bfbbb3d119bc
 | ![](images/12.14.20.png) | [link](https://www.icloud.com/shortcuts/4a20a41c31904101b073af17e68b0bdf) |
 </details>
 
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+    - Contact `imhicihu` at `gmail` dot `com`
+
+### Code of Conduct
+
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
