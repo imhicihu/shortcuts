@@ -1,6 +1,6 @@
 ### Shortcuts downloads
 
-| Button | Download |
+| Button | Download from iCloud |
 |:--|:--|
 | ![](images/11.22.32.png) | [link](https://www.icloud.com/shortcuts/e31e760cfab049ea87b58156df88f8e0) |
 | ![](images/11.27.16.png) | [link](https://www.icloud.com/shortcuts/fd0d53d7288d41b1878f783d009f80df) |
@@ -17,4 +17,7 @@
 | ![](images/12.13.08.png) | [link](https://www.icloud.com/shortcuts/709df61f70c2411fa1ce46c0b64d8634) |
 | ![](images/12.13.28.png) | [link](https://www.icloud.com/shortcuts/a1891dc1605b480e893d5d225e0140a9) |
 | ![](images/12.13.43.png) | [link](https://www.icloud.com/shortcuts/b18c26e74c79406a9d0b3611fd4bbbc0) |
-|  |  |
+| ![](images/12.13.57.png) | [link](https://www.icloud.com/shortcuts/aab932521b624c1291e71e88d4e896b3) |
+| ![](images/12.14.10.png) | [link](https://www.icloud.com/shortcuts/c25fcc0f62f64a099dba584fcad0d29e) |
+| ![](images/12.14.20.png) | [link](https://www.icloud.com/shortcuts/4a20a41c31904101b073af17e68b0bdf) |
+
