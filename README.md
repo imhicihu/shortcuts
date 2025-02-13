@@ -28,7 +28,6 @@ https://github.com/user-attachments/assets/6774b2a7-fcd2-4a23-a7eb-bfbbb3d119bc
 
 ### Download links from iCloud
 
-* Check the [downloads](downloads.md) section
 
 <details>
 <summary>Download links from iCloud</summary>
