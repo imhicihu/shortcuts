@@ -9,7 +9,7 @@
 | ![](images/11.27.16.png) | [link](https://www.icloud.com/shortcuts/fd0d53d7288d41b1878f783d009f80df) | ![](images/2025-02-24_13.06.45.png)|
 | ![](images/11.28.28.png) | [link](https://www.icloud.com/shortcuts/3ec40e0f47c64018aad99f820e2a686e) | ![](images/2025-02-24_13.19.26.png)|
 | ![](images/11.23.26.png) | [link](https://www.icloud.com/shortcuts/32bc5dfe4ffb4aa9aec13c631db83b1d) | ![](images/2025-02-24_13.22.19.png)|
-| ![](images/11.26.53.png) | [link](https://www.icloud.com/shortcuts/201f3ab2882a44f7a8e8830e6c793ac2) | ![](images/2025-02-24_13.06.45.png)|
+| ![](images/11.26.53.png) | [link](https://www.icloud.com/shortcuts/201f3ab2882a44f7a8e8830e6c793ac2) | ![](images/2025-02-24_13.26.57.png)|
 | ![](images/11.49.24.png) | [link](https://www.icloud.com/shortcuts/821656d2a40746a6bd576a96a35e00f2) | ![](images/2025-02-24_13.06.45.png)|
 | ![](images/11.49.38.png) | [link](https://www.icloud.com/shortcuts/a8aa3c0d380a4180b159af81d6254b38) | ![](images/2025-02-24_13.06.45.png)|
 | ![](images/11.49.51.png) | [link](https://www.icloud.com/shortcuts/025b4bbe16f2400aa08d86c98076178f) | ![](images/2025-02-24_13.06.45.png)|
