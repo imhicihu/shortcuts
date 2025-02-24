@@ -3,9 +3,9 @@
 <details>
 <summary>Download links from iCloud</summary>
 
-| Button | Download |
-|:--|:--|
-| ![](images/11.22.32.png) | [link](https://www.icloud.com/shortcuts/e31e760cfab049ea87b58156df88f8e0) |
+| Button | Download | Logic |
+|:--|:--|:--|
+| ![](images/11.22.32.png) | [link](https://www.icloud.com/shortcuts/e31e760cfab049ea87b58156df88f8e0) | ![](images/2025-02-24_12.48.11.png)|
 | ![](images/11.27.16.png) | [link](https://www.icloud.com/shortcuts/fd0d53d7288d41b1878f783d009f80df) |
 | ![](images/11.28.28.png) | [link](https://www.icloud.com/shortcuts/3ec40e0f47c64018aad99f820e2a686e) |
 | ![](images/11.23.26.png) | [link](https://www.icloud.com/shortcuts/32bc5dfe4ffb4aa9aec13c631db83b1d) |
