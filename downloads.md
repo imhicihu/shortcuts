@@ -21,7 +21,7 @@
 | ![](images/12.13.28.png) | [link](https://www.icloud.com/shortcuts/a1891dc1605b480e893d5d225e0140a9) | ![](images/2025-02-24_14.24.47.png)|
 | ![](images/12.13.43.png) | [link](https://www.icloud.com/shortcuts/b18c26e74c79406a9d0b3611fd4bbbc0) | ![](images/2025-02-24_14.29.16.png)|
 | ![](images/12.13.57.png) | [link](https://www.icloud.com/shortcuts/aab932521b624c1291e71e88d4e896b3) | ![](images/2025-02-24_14.36.16.png)|
-| ![](images/12.14.10.png) | [link](https://www.icloud.com/shortcuts/c25fcc0f62f64a099dba584fcad0d29e) | ![](images/2025-02-24_13.06.45.png)|
+| ![](images/12.14.10.png) | [link](https://www.icloud.com/shortcuts/c25fcc0f62f64a099dba584fcad0d29e) | ![](images/2025-02-24_14.43.21.png)|
 | ![](images/12.14.20.png) | [link](https://www.icloud.com/shortcuts/4a20a41c31904101b073af17e68b0bdf) | ![](images/2025-02-24_13.06.45.png)|
 </details>
 
