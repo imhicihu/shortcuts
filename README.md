@@ -15,7 +15,7 @@
 
 * Custom shortcuts for the Shortcuts application developed by Apple and provided on its [iOS](https://apps.apple.com/us/app/shortcuts/id915249334), [iPadOS](https://apps.apple.com/us/app/shortcuts/id915249334), [macOS](https://support.apple.com/guide/shortcuts-mac/run-a-shortcut-from-the-app-apd5ba077760/8.0/mac/15.0), and [watchOS](https://apps.apple.com/us/app/shortcuts/id1462947752?platform=appleWatch) operating systems
 * They are like macros that automate actions: go to our [digital repositories](https://ri.conicet.gov.ar/handle/11336/458/discover), [digital books](https://imhicihu.conicet.gov.ar/publicaciones/), [digital field notes](https://imhicihu.conicet.gov.ar/Bormida/), [PhD tesis](https://ri.conicet.gov.ar/handle/11336/458/discover?filtertype=type&filter_relational_operator=contains&filter=thesis), [digitized journals](https://imhicihu.conicet.gov.ar/colecciones-digitales/), etc. 
-* Just one click to access to our digital content
+* Just one tap to access our digital content
 
 
 https://github.com/user-attachments/assets/6774b2a7-fcd2-4a23-a7eb-bfbbb3d119bc
