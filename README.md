@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/cd01f16a-fb0b-4932-8988-c05a7f4a64a0
 | ![](images/12.13.57-removebg-preview.png) | ![](images/2025-02-24_14.36.16.png)| [Download](https://www.icloud.com/shortcuts/aab932521b624c1291e71e88d4e896b3) |
 | ![](images/12.14.10-removebg-preview.png) | ![](images/2025-02-24_14.43.21.png)| [Download](https://www.icloud.com/shortcuts/c25fcc0f62f64a099dba584fcad0d29e) |
 | ![](images/12.14.20-removebg-preview.png) | ![](images/2025-02-24_14.43.21.png)| [Download](https://www.icloud.com/shortcuts/4a20a41c31904101b073af17e68b0bdf) |
-| ![](images/VoiceControl.jpg) | ![](images/2025-02-24_14.43.21.png)| [Download](https://www.icloud.com/shortcuts/da1539365cb14496b49a78c909d5f3ba) |
+| ![](images/VoiceControl.jpg) | ![](images/Screenshot_2026-05-22_at_5.12.05_PM.png)| [Download](https://www.icloud.com/shortcuts/da1539365cb14496b49a78c909d5f3ba) |
 
 
 ### Who do I talk to? ###
