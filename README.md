@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Screenshot_2025-02-07.png?raw=true" alt="IMHICIHU's custom Shortcuts"/>
+  <img src="images/Screenshot_2026-05-22_at_3.52.39PM.png?raw=true" alt="IMHICIHU's custom Shortcuts"/>
 </p>
 
 > _Shortcuts_ app on macOSX environment
