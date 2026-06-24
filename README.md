@@ -67,3 +67,7 @@ https://github.com/user-attachments/assets/cd01f16a-fb0b-4932-8988-c05a7f4a64a0
 ### License ###
 
 * The content of this project itself is licensed under the ![MIT Licence](images/MIT-license-green.png)
+
+---
+> [!NOTE]
+> These _shortcuts_ works _only_ in the MacOSX environment
