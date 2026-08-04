@@ -11,7 +11,7 @@
 # shortcuts
 
 
-## JUSTIFICACIÓN / [RATIONALE](README.md)
+## Motivación / [Rationale](README.md)
 
 * Atajos personalizados para la aplicación Atajos desarrollada por Apple y disponible en [iOS](https://apps.apple.com/us/app/shortcuts/id915249334), [iPadOS](https://apps.apple.com/us/app/shortcuts/id915249334), [macOS](https://support.apple.com/guide/shortcuts-mac/run-a-shortcut-from-the-app-apd5ba077760/8.0/mac/15.0) y [watchOS](https://apps.apple.com/us/app/shortcuts/id1462947752?platform=appleWatch)
 * Son como macros que automatizan acciones: accede a nuestros [repositorios digitales](https://ri.conicet.gov.ar/handle/11336/458/discover), [libros digitales](https://imhicihu.conicet.gov.ar/publicaciones/) y [notas de campo digitales](https://imhicihu.conicet.gov. ar/Bormida/), [tesis doctorales](https://ri.conicet.gov.ar/handle/11336/458/discover?filtertype=type&filter_relational_operator=contains&filter=thesis), [revistas digitalizadas](https://imhicihu.conicet.gov.ar/colecciones-digitales/), etc. 
